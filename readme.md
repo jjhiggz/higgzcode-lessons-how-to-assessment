@@ -16,5 +16,8 @@ When you take an assessment, they aren't going to change. That means you can fee
 
 During Assessment week, you will have 30 minutes at the beginning of each class to take this assessment, I may adjust this time as time goes on. If you don't complete it then you can work on it on your own time and reach out to me for a 1:1 to see if you pass. The more you communicate the better that I can help you  😀😀 
 
+## 5. START FROM SCRATCH EVERY TIME
+You should always be starting from scratch. You will be creating the file, unless otherwise specified. 
+
 
 ## Good Luck You've Got this
