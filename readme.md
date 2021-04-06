@@ -4,6 +4,9 @@
 
 I'm going to be honest. This is a small community here. Nobody knows about this school and having a degree from "Higgzschool" doesn't mean shit. The thing that will mean shit is if you learn how to code. If you cheat your way through this program, then you will not know how to code and won't be able to get a job. You are going to need to be able to work on your own projects, solve algorithms, and interview well by the end of this. I am also very flexible with you and how you move your way through this program so just don't cheat.
 
+** Note ** 
+Using Google is not cheating. As a developer, you will regularly be faced with shit that you do not know. Googling shit is not a sign of stupidiy it is a sign of intelligence.
+
 ## 2. Pass / Fail
 
 These assessments are pass / fail. You have to do all of the things that I am asking you to do on it... period. If you can't do them you are not ready to move onto the subsequent material, and would be better off waiting until you are caught up and following along with the material online.
@@ -16,7 +19,12 @@ When you take an assessment, they aren't going to change. That means you can fee
 
 During Assessment week, you will have 30 minutes at the beginning of each class to take this assessment, I may adjust this time as time goes on. If you don't complete it then you can work on it on your own time and reach out to me for a 1:1 to see if you pass. The more you communicate the better that I can help you  😀😀 
 
-## 5. START FROM SCRATCH EVERY TIME
+## 5. USE GOOGLE
+
+Do not be afraid to use google. This is not cheating. Google shit that you do not know, this isn't just a test, its also a learning oppurtunity. 
+
+
+## 6. START FROM SCRATCH EVERY TIME
 You should always be starting from scratch. You will be creating the file, unless otherwise specified. 
 
 
